@@ -1,0 +1,2 @@
+D:\LOGIN\login\login\obj\Debug\login.esproj.SuggestedBindingRedirects.cache
+D:\LOGIN\login\login\obj\Debug\login.esproj.CoreCompileInputs.cache
